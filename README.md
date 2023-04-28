@@ -7,7 +7,7 @@ me:
 1. i like coding
 2. segfault
 
-```
+```c
 #include <stdio.h>
 
 int main(int argc, char **argv)
@@ -17,7 +17,7 @@ int main(int argc, char **argv)
 }
 ```
 
-~~C++~~ C is the ==best== 😂
+~~C++~~ C is the ***best*** 😂
 
 ---
 
